@@ -2,12 +2,8 @@
 
 ### This is particularly useful as an rspec sandbox ###
 
-#### Installation & Usage ####
-    git clone <repo>.git
-    cd <repo>.git
+#### Usage ####
     bundle install
+    guard # in another terminal
 
-In a separate terminal, run:
-    guard
 and hack away.
-
